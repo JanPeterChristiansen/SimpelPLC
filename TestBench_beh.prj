@@ -1,0 +1,2 @@
+vhdl work "PLC.vhd"
+vhdl work "TestBench.vhd"
